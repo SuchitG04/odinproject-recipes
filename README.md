@@ -1,2 +1,2 @@
-# odinproject-html
+# odinproject-recipes
 Project: Recipes
